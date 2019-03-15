@@ -1,0 +1,10 @@
+{
+    "name": "jarvis/example-git",
+    "authors": [
+        {
+            "name": "Jarvis",
+            "email": "endless640c@gmail.com"
+        }
+    ],
+    "require": {}
+}
